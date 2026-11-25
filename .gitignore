@@ -1,0 +1,13 @@
+# Salidas pesadas (superan el límite de 100 MB de GitHub o se regeneran con el script)
+output_csv/dataset_enriquecido.csv
+output_csv/dataset_enriquecido.xlsx
+
+# Archivos temporales de LibreOffice y Excel
+.~lock.*#
+~$*
+
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
